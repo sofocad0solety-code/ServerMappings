@@ -3,7 +3,7 @@
     "name": "Zaynix Network",
     "website": "https://adfay.io",
     "store": "https://tienda.zaynix.org",
-    "description": "Servidor de Minecraft en español en constante crecimiento. Disfruta de modalidades como Survival, BoxPvP y Anárquico en una comunidad activa y en expansión. ¡Únete hoy y forma parte de Zaynix!",
+    "description": "Spanish Minecraft server with Survival and PvP modes",
     "addresses": [
         "zaynix.org"
     ],
@@ -20,14 +20,13 @@
     "regions": [
         "NA"
     ],
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es"
+        "es-EN"
     ],
     "gameTypes": [
         "Survival",
-        "BoxPvP",
-        "Anarchy"
+        "PvP"
     ],
     "socials": {
         "twitter": "zaynixnetwork",
